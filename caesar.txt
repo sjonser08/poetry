@@ -1,3 +1,6 @@
+adding on master
+:wq
+
 testing this git
 line #2
 line #3
