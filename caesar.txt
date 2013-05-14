@@ -1,6 +1,6 @@
 adding on master
 :wq
-
+s is it
 testing this git
 line #2
 line #3
